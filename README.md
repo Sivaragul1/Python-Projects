@@ -7,7 +7,7 @@ Welcome to the Python Projects repository! This repository contains a collection
 The repository is organized as follows:
 
 - **Project 1**: Non Scientific Calculator
-- **Project 2**: Web Scarping 
+- **Project 2**: 
 - **Project 3**: 
 - ...
 
