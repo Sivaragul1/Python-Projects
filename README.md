@@ -8,7 +8,7 @@ The repository is organized as follows:
 
 - **Project 1**: Non Scientific Calculator
 - **Project 2**: Web Scarping 
-- **Project 3**: Chat Bot
+- **Project 3**: 
 - ...
 
 ## Getting Started
